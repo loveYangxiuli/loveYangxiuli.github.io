@@ -7,17 +7,9 @@
 -->
 ## 欢迎来到我的博客
 
-这里主要写一写自己用到的和自己琢磨的一些代码，我知道自己的水平很低，但是还是希望把自己的一些学习心得给奉献出来。
 
-如果这个博客的某些内容能对你有一点的帮助，那么我会感到非常的荣幸。如果你觉得我的那些代码或者思想是错误的或者有改进的地方，并且愿意指正出来，那么我就更加感谢了。我的邮箱是willian126@126.com。 
+1. [四四班文化建设方案](./teacher/wenhuajianshe/index)
 
-1. [常用的一些移动端js方法](http://blog.zgx.zone/mobile/usuallUse)
-2. [js判断数据类型的方法](http://blog.zgx.zone/js/dataType)
-3. [js面向对象的](http://blog.zgx.zone/js/object)
-4. [js原型，原型链，继承](http://blog.zgx.zone/js/prototype)
-5. [js作用域，闭包，this](http://blog.zgx.zone/js/this)
-6. [阿里云ces服务器的一些初始化](http://blog.zgx.zone/ces/init)
-7. [工具类的使用](http://blog.zgx.zone/tool/init)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
